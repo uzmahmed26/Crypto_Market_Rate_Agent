@@ -16,4 +16,4 @@ A simple and beginner-friendly **Crypto Price Tracker App** built using **Python
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/crypto-market-agent.git
+git clone https://github.com/uzmahmed26/Crypto_Market_Rate_Agent.git
